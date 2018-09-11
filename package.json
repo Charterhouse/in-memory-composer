@@ -1,0 +1,13 @@
+{
+  "name": "in-memory-composer",
+  "version": "0.1.0",
+  "description": "Quickly create an in-memory Hyperledger Composer instance for testing",
+  "main": "source/index.js",
+  "dependencies": {
+    "composer-admin": "^0.20.0",
+    "composer-client": "^0.20.0",
+    "composer-common": "^0.20.0",
+    "composer-connector-embedded": "^0.20.0"
+  },
+  "license": "MIT"
+}
