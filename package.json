@@ -1,6 +1,6 @@
 {
   "name": "in-memory-composer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quickly create an in-memory Hyperledger Composer instance for testing",
   "main": "source/index.js",
   "homepage": "https://github.com/charterhouse/in-memory-composer",
